@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/mariolopg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mariolopg" height="30" width="40" /></a>
 <a href="https://twitter.com/mariolopg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mariolopg" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mario lopez gonzalez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mario lopez gonzalez" height="30" width="40" /></a>
-<a href="https://instagram.com/mariolopg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mariolopg" height="30" width="40" /></a>
 <a href="https://discord.gg/mariolopg#0498" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mariolopg#0498" height="30" width="40" /></a>
 </p>
 
