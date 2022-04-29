@@ -41,4 +41,4 @@
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariolopg&show_icons=true&locale=en&layout=compact" alt="mariolopg" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mariolopg&show_icons=true&locale=en" alt="mariolopg" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mariolopg&show_icons=true&locale=en" alt="mariolopg" /></p>-->
