@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mariolopg](https://github.com/mariolopg)
 
-- 💬 Ask me about **html, css, c++, ruby, java, etc**
+- 💬 Ask me about **html, css, c++, ruby, java or js**
 
 - 📫 How to reach me **mariolopezgonzalez2001@gmail.com**
 
